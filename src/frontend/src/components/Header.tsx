@@ -463,7 +463,6 @@ export const Header = forwardRef<HeaderHandle, HeaderProps>(
           </button>
         )}
 
-        {/* Settings Button */}
         {renderSettingsButton('nav')}
 
         {/* User Menu Dropdown */}
